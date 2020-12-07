@@ -30,9 +30,10 @@ do
 			;;
 
 		3) 
-			echo "Goodbye" exit
+			break
 			;;
 	esac
+	echo "Goodbye"
 done
 
 
