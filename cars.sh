@@ -3,8 +3,7 @@
 # Minna Yu
 
 echo "Please choose one of the following by entering a number: "; 
-read -r choice
-while [[ "$choice" != "3" ]]
+while read choice
 do
 	echo "Type 1 to enter a new car"
 	echo "Type 2 to display the list of cars"
