@@ -18,7 +18,7 @@ do
 			read model
 			a=":"
 			combine="$year$a$make$a$model"
-			printf "\n$combine" >> My_old_cars.txt
+			echo -e "\n$combine" >> My_old_cars.txt
 			;;
 
 		2) 
