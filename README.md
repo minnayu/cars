@@ -1,3 +1,10 @@
+## Identifying Information: 
+1. Name: Minna Yu
+2. Student ID: 2378963
+3. Email: minyu@chapman.edu
+4. Class: CPSC 298-02
+5. Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
